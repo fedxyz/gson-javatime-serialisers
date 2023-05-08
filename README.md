@@ -1,3 +1,7 @@
+This is a fork of the original project, I only added `YearMonth` support.
+Next you can read the original `README`.
+
+
 # gson-javatime-serialisers
 
 ## What is it?
